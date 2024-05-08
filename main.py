@@ -70,6 +70,7 @@ while running:
         else:
             is_jumping = False
             player_jump = 10
+            print("Player Jumping true")
 
     # Apply gravity
     if player_y + player_height < window_height:
