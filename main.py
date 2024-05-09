@@ -103,5 +103,3 @@ while running:
 # Quit the game
 pygame.quit()
 
-# NOTES
-# when ontop of the object, the player cannot move
