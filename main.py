@@ -23,7 +23,9 @@ object_height = 70
 object_positions = [
     (700, 300),
     (400, 200),
-    (100, 400)
+    (100, 400),
+    (500, 500),
+    (300, 100)
 ]
 
 # set up the clock
